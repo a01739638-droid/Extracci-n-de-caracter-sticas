@@ -1,0 +1,11 @@
+Variable,N,Minimo,Maximo,Rango_R,ni_Sturges,Num_clases,Ancho_intervalo
+Potencial de compra (Citas Digital),611,5.0,100.0,95.0,10.25,10,9.5
+Solicitudes de credito generadas (SDC),31,5.0,136.0,131.0,5.95,6,21.83
+Solicitudes de credito aprobadas (SDC),31,1.0,51.0,50.0,5.95,6,8.33
+Leads Facebook por mes (CPL Facebook),13,211.0,422.0,211.0,4.7,5,42.2
+Costo por lead Facebook (CPL Facebook),13,116.2,349.5,233.3,4.7,5,46.66
+Ventas por mes (Ventas por Asesor),30,6.0,42.0,36.0,5.9,6,6.0
+Conversaciones iniciadas por asesor,13,5.0,27.0,22.0,4.7,5,4.4
+Afluencia real a piso por mes (TOPS MKT),11,43.0,81.0,38.0,4.46,4,9.5
+Objetivo de ventas por mes (TOPS VENTAS),12,35.0,53.0,18.0,4.58,5,3.6
+Leads totales 2024 por asesor (Analisis de Piso),40,1.0,206.0,205.0,6.32,6,34.17

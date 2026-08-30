@@ -1,0 +1,59 @@
+Variable,Categoria,Frecuencia
+Potencial de compra (Citas Digital),Cat1 (5.0-14.5),1
+Potencial de compra (Citas Digital),Cat2 (14.5-24.0),2
+Potencial de compra (Citas Digital),Cat3 (24.0-33.5),4
+Potencial de compra (Citas Digital),Cat4 (33.5-43.0),2
+Potencial de compra (Citas Digital),Cat5 (43.0-52.5),47
+Potencial de compra (Citas Digital),Cat6 (52.5-62.0),70
+Potencial de compra (Citas Digital),Cat7 (62.0-71.5),174
+Potencial de compra (Citas Digital),Cat8 (71.5-81.0),237
+Potencial de compra (Citas Digital),Cat9 (81.0-90.5),55
+Potencial de compra (Citas Digital),Cat10 (90.5-100.0),19
+Solicitudes de credito generadas (SDC),Cat1 (5.0-26.8),5
+Solicitudes de credito generadas (SDC),Cat2 (26.8-48.7),3
+Solicitudes de credito generadas (SDC),Cat3 (48.7-70.5),3
+Solicitudes de credito generadas (SDC),Cat4 (70.5-92.3),10
+Solicitudes de credito generadas (SDC),Cat5 (92.3-114.2),7
+Solicitudes de credito generadas (SDC),Cat6 (114.2-136.0),3
+Solicitudes de credito aprobadas (SDC),Cat1 (1.0-9.3),4
+Solicitudes de credito aprobadas (SDC),Cat2 (9.3-17.7),3
+Solicitudes de credito aprobadas (SDC),Cat3 (17.7-26.0),3
+Solicitudes de credito aprobadas (SDC),Cat4 (26.0-34.3),7
+Solicitudes de credito aprobadas (SDC),Cat5 (34.3-42.7),9
+Solicitudes de credito aprobadas (SDC),Cat6 (42.7-51.0),5
+Leads Facebook por mes (CPL Facebook),Cat1 (211.0-253.2),3
+Leads Facebook por mes (CPL Facebook),Cat2 (253.2-295.4),5
+Leads Facebook por mes (CPL Facebook),Cat3 (295.4-337.6),1
+Leads Facebook por mes (CPL Facebook),Cat4 (337.6-379.8),2
+Leads Facebook por mes (CPL Facebook),Cat5 (379.8-422.0),2
+Costo por lead Facebook (CPL Facebook),Cat1 (116.2-162.8),3
+Costo por lead Facebook (CPL Facebook),Cat2 (162.8-209.5),3
+Costo por lead Facebook (CPL Facebook),Cat3 (209.5-256.1),0
+Costo por lead Facebook (CPL Facebook),Cat4 (256.1-302.8),3
+Costo por lead Facebook (CPL Facebook),Cat5 (302.8-349.5),4
+Ventas por mes (Ventas por Asesor),Cat1 (6.0-12.0),5
+Ventas por mes (Ventas por Asesor),Cat2 (12.0-18.0),3
+Ventas por mes (Ventas por Asesor),Cat3 (18.0-24.0),4
+Ventas por mes (Ventas por Asesor),Cat4 (24.0-30.0),4
+Ventas por mes (Ventas por Asesor),Cat5 (30.0-36.0),6
+Ventas por mes (Ventas por Asesor),Cat6 (36.0-42.0),8
+Conversaciones iniciadas por asesor,Cat1 (5.0-9.4),5
+Conversaciones iniciadas por asesor,Cat2 (9.4-13.8),2
+Conversaciones iniciadas por asesor,Cat3 (13.8-18.2),3
+Conversaciones iniciadas por asesor,Cat4 (18.2-22.6),2
+Conversaciones iniciadas por asesor,Cat5 (22.6-27.0),1
+Afluencia real a piso por mes (TOPS MKT),Cat1 (43.0-52.5),1
+Afluencia real a piso por mes (TOPS MKT),Cat2 (52.5-62.0),2
+Afluencia real a piso por mes (TOPS MKT),Cat3 (62.0-71.5),4
+Afluencia real a piso por mes (TOPS MKT),Cat4 (71.5-81.0),4
+Objetivo de ventas por mes (TOPS VENTAS),Cat1 (35.0-38.6),3
+Objetivo de ventas por mes (TOPS VENTAS),Cat2 (38.6-42.2),3
+Objetivo de ventas por mes (TOPS VENTAS),Cat3 (42.2-45.8),1
+Objetivo de ventas por mes (TOPS VENTAS),Cat4 (45.8-49.4),3
+Objetivo de ventas por mes (TOPS VENTAS),Cat5 (49.4-53.0),2
+Leads totales 2024 por asesor (Analisis de Piso),Cat1 (1.0-35.2),27
+Leads totales 2024 por asesor (Analisis de Piso),Cat2 (35.2-69.3),8
+Leads totales 2024 por asesor (Analisis de Piso),Cat3 (69.3-103.5),1
+Leads totales 2024 por asesor (Analisis de Piso),Cat4 (103.5-137.7),3
+Leads totales 2024 por asesor (Analisis de Piso),Cat5 (137.7-171.8),0
+Leads totales 2024 por asesor (Analisis de Piso),Cat6 (171.8-206.0),1
